@@ -1,0 +1,29 @@
+.row {
+    background-color: lightpink;
+    padding: 23PT;
+    color: lightyellow;
+    font-style: italic;
+}
+h1 {
+    color: lightpink;
+    padding: 9pt;
+    font-weight: bold;
+    font-style: italic;
+}
+.text
+{
+    color: lightsalmon;
+    padding: 10pt;
+    border-top-style: 8pt;
+}
+
+.image
+{
+    align-self: start;
+}
+.button
+{
+    background-color : pink;
+    border-radius: 2pt;
+    padding: 40pt;
+}
