@@ -9,6 +9,7 @@ h1 {
     padding: 9pt;
     font-weight: bold;
     font-style: italic;
+    border-radius: 50pt;
 }
 .text
 {
@@ -19,11 +20,34 @@ h1 {
 
 .image
 {
-    align-self: start;
+    size: 300pt;
 }
-.button
-{
-    background-color : pink;
-    border-radius: 2pt;
-    padding: 40pt;
+
+
+.btn-light-blue{
+    
+    background-color: lightblue;
+    border: skyblue;
+    color: snow;
+    
+}
+.imagemelanie{
+    background-image: url('MELANIE.jpg');
+    background-size: cover;
+    border: 3px solid papayawhip;
+    min-height: 50vh;
+}
+h3 {
+    padding: 30pt;
+    color: lemonchiffon;
+    align-self: 2pt;
+    border: lightsalmon;
+    border-width: 30pt;
+}
+.background {
+    background-color: lightcyan;
+}
+
+.row-border {
+    border-color: lightsalmon;
 }
