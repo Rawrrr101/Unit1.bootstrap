@@ -1,7 +1,7 @@
 .row {
     background-color: lavender;
     padding: 10pt;
-    color: lightyellow;
+    color :white;
     font-style: italic;
 }
 h1 {
@@ -10,12 +10,14 @@ h1 {
     font-weight: bold;
     font-style: italic;
     border-radius: 50pt;
+    
 }
 .text
 {
+
     color: lightsalmon;
     padding: 10pt;
-    border-top-style: 8pt;
+    font-style: bold;
 }
 
 .image
@@ -34,12 +36,24 @@ h1 {
 .imagemelanie{
     background-image: url('MELANIE.jpg');
     background-size: cover;
-    border: 3px solid papayawhip;
+    border: 3px solid gainsboro;
+    min-height: 50vh;
+}
+.imagemelanie1{
+    background-image: url('Melanie-Martinez-K-12.jpg');
+    background-size: cover;
+    border: 3px solid gainsboro;
+    min-height: 50vh;
+}
+.imagemelanie2{
+    background-image: url('Melanie_Martinez_Press_Image.jpg');
+    background-size: cover;
+    border: 3px solid gainsboro;
     min-height: 50vh;
 }
 h3 {
     padding: 30pt;
-    color: lemonchiffon;
+    color: lightgrey;
     align-self: 2pt;
     border: lightsalmon;
     border-width: 30pt;
