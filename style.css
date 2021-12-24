@@ -33,12 +33,21 @@ h1 {
     color: snow;
     
 }
-.imagemelanie{
+.bgimagemelanie{
     background-image: url('MELANIE.jpg');
     background-size: cover;
     border: 3px solid gainsboro;
     min-height: 50vh;
 }
+
+.bgimagemelanie1{background-image: url('8-Things-You-Didnt-Know-About-Melanie-Martinez.jpg');
+    background-size: cover;
+    border: 3px solid gainsboro;
+    min-height: 50vh;}
+.imagemelanie{
+    background-image: url( 'channels4_profile.jpg');
+}
+
 .imagemelanie1{
     background-image: url('Melanie-Martinez-K-12.jpg');
     background-size: cover;
