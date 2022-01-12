@@ -3,6 +3,9 @@
     padding: 10pt;
     color :white;
     font-style: italic;
+    font-family: 'Lobster', cursive;
+font-family: 'Source Serif Pro', serif;
+
 }
 h1 {
     color: lightpink;
@@ -10,6 +13,9 @@ h1 {
     font-weight: bold;
     font-style: italic;
     border-radius: 50pt;
+   
+    
+font-family: 'Source Serif Pro', serif;
     
 }
 .text
@@ -18,6 +24,7 @@ h1 {
     color: lightsalmon;
     padding: 10pt;
     font-style: bold;
+    font-family: 'Lobster', cursive;
 }
 
 .image
@@ -31,6 +38,9 @@ h1 {
     background-color: lightblue;
     border: skyblue;
     color: snow;
+    font-family: 'Lobster', cursive;
+font-family: 'Source Serif Pro', serif;
+font-style: italic;
     
 }
 .bgimagemelanie{
@@ -66,6 +76,9 @@ h3 {
     align-self: 2pt;
     border: lightsalmon;
     border-width: 30pt;
+    font-family: 'Lobster', cursive;
+font-family: 'Source Serif Pro', serif;
+    
 }
 .background {
     background-color: lightcyan;
